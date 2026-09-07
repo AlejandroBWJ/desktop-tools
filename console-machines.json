@@ -1,0 +1,21 @@
+{
+  "_comment": [
+    "Machines allowed to run Awake Console. Published to the public release",
+    "channel by CI, and read by every installed copy.",
+    "",
+    "To enrol somebody: they open Awake, press Setup, press 'Copy my machine",
+    "id', and send you the hash. Add it below with a name in a comment, commit,",
+    "push. Their copy picks it up on its next check, or immediately when they",
+    "press 'Check again' in Setup.",
+    "",
+    "To revoke: delete the line. Their next check drops the grant.",
+    "",
+    "These are SHA-256 hashes of the Windows MachineGuid. They identify nobody,",
+    "reveal no address, and grant nothing on their own: Console still binds",
+    "loopback only and still needs a token generated on the machine it runs on.",
+    "That is why this file is safe to publish."
+  ],
+  "machines": [
+    "b2d21fba1fde8e5255eef0818b06fbff4b956d8a37b97f1c31d9de41f70ca062"
+  ]
+}
