@@ -1,10 +1,10 @@
 {
-  "version": "1.4.3",
-  "notes": "Awake 1.4.3",
-  "win_file": "Awake-1.4.3.exe",
-  "win_sha256": "3c6138739a503db6ab08ad46c71795f82d305dc9323884854a37baa4f14cc509",
-  "mac_file": "Awake-1.4.3-macOS.zip",
-  "mac_sha256": "d1fb20389a1c5c375dcd929fdddd565fee6ea6ac5006077d82a9316936891c5f",
-  "winsrc_file": "Awake-1.4.3-win-src.zip",
-  "winsrc_sha256": "cd394cdf3c8bdbdaa16c0238da27a4442b1f5d63ed94c7386d2ef618ba4581cc"
+  "version": "1.5.0",
+  "notes": "Awake 1.5.0",
+  "win_file": "Awake-1.5.0.exe",
+  "win_sha256": "d0afdd0e7c974cbc7e222b455f8706bf402faea73a62320385b33ae2f735762d",
+  "mac_file": "Awake-1.5.0-macOS.zip",
+  "mac_sha256": "87f3f78711fd122e2b2f025e555ce1eb1f118389df18cc14ae233c7720e54988",
+  "winsrc_file": "Awake-1.5.0-win-src.zip",
+  "winsrc_sha256": "a61e44d68822321a240fe38002648e94dc11817992768ebb17edd06fae2dd853"
 }
