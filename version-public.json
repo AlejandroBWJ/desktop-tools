@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "notes": "Awake 1.5.0",
-  "win_file": "Awake-public-1.5.0.exe",
-  "win_sha256": "2928c7c65bcbfa4161e1f1001d056d534bcd1c0884fb26af02f183aacc038c9e",
-  "zip_file": "Awake-1.5.0-win.zip",
-  "zip_sha256": "8c1a8de47f6323d101be2c4a2d60e9a00192ba2739bca64caf462b66d7218bc7"
+  "version": "1.5.1",
+  "notes": "Awake 1.5.1",
+  "win_file": "Awake-public-1.5.1.exe",
+  "win_sha256": "22e1aa4c12c336b51fc7e68b66025dd6bb023e76ed2dcab2da29ab9aae875320",
+  "zip_file": "Awake-1.5.1-win.zip",
+  "zip_sha256": "0619cb1d88f1042ec5409bb608338d99e9fa0f839f7bf8838dfa780319d1ad78"
 }
